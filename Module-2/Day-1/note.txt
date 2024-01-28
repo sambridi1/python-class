@@ -1,0 +1,4 @@
+append=add element in last
+pop=delete last element
+remove=delete
+reverse=reverse huncah 
